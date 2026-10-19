@@ -245,7 +245,7 @@ class Program
 ```
 `Результат выполнения:`
 <picture>
-  <img src="https://github.com/KseniaBashkatova/Task5-/blob/main/assets/screens/PPPP.png?raw=true">
+  <img src="https://github.com/KseniaBashkatova/Task8-/blob/main/111.png?raw=true">
 </picture>
 ```
 
